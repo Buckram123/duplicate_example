@@ -202,7 +202,7 @@ dependencies = [
 [[package]]
 name = "cw-core"
 version = "0.2.0"
-source = "git+https://github.com/DA0-DA0/dao-contracts#693a5d6a36ada1505c5a52e8029b1b80ea557393"
+source = "git+https://github.com/Buckram123/dao-contracts/?rev=6fc9661876b602eabe729555d1e1d4964beb9260#6fc9661876b602eabe729555d1e1d4964beb9260"
 dependencies = [
  "cosmwasm-std",
  "cosmwasm-storage",
@@ -222,7 +222,7 @@ dependencies = [
 [[package]]
 name = "cw-core-interface"
 version = "0.2.0"
-source = "git+https://github.com/DA0-DA0/dao-contracts#693a5d6a36ada1505c5a52e8029b1b80ea557393"
+source = "git+https://github.com/Buckram123/dao-contracts/?rev=6fc9661876b602eabe729555d1e1d4964beb9260#6fc9661876b602eabe729555d1e1d4964beb9260"
 dependencies = [
  "cosmwasm-std",
  "cw-core-macros",
@@ -234,7 +234,7 @@ dependencies = [
 [[package]]
 name = "cw-core-macros"
 version = "0.2.0"
-source = "git+https://github.com/DA0-DA0/dao-contracts#693a5d6a36ada1505c5a52e8029b1b80ea557393"
+source = "git+https://github.com/Buckram123/dao-contracts/?rev=6fc9661876b602eabe729555d1e1d4964beb9260#6fc9661876b602eabe729555d1e1d4964beb9260"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -263,7 +263,7 @@ dependencies = [
 [[package]]
 name = "cw-paginate"
 version = "0.2.0"
-source = "git+https://github.com/DA0-DA0/dao-contracts#693a5d6a36ada1505c5a52e8029b1b80ea557393"
+source = "git+https://github.com/Buckram123/dao-contracts/?rev=6fc9661876b602eabe729555d1e1d4964beb9260#6fc9661876b602eabe729555d1e1d4964beb9260"
 dependencies = [
  "cosmwasm-std",
  "cosmwasm-storage",
@@ -889,7 +889,7 @@ checksum = "49874b5167b65d7193b8aba1567f5c7d93d001cafc34600cee003eda787e483f"
 [[package]]
 name = "voting"
 version = "0.2.0"
-source = "git+https://github.com/DA0-DA0/dao-contracts#693a5d6a36ada1505c5a52e8029b1b80ea557393"
+source = "git+https://github.com/Buckram123/dao-contracts/?rev=6fc9661876b602eabe729555d1e1d4964beb9260#6fc9661876b602eabe729555d1e1d4964beb9260"
 dependencies = [
  "cosmwasm-std",
  "cw-core",

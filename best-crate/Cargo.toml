@@ -6,4 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-voting = { version = "0.2.0", git = "https://github.com/DA0-DA0/dao-contracts" }
+voting = { version = "0.2.0", git = "https://github.com/Buckram123/dao-contracts/", rev = "6fc9661876b602eabe729555d1e1d4964beb9260"}
