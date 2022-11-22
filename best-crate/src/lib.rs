@@ -1,1 +1,1 @@
-pub use voting::status::Status;
+pub use cwd_voting::status::Status;
